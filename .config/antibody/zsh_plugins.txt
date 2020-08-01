@@ -1,0 +1,23 @@
+zsh-users/zsh-completions
+
+# robbyrussell/oh-my-zsh path:plugins/aws
+
+~/.config/antibody/powerlevel10k
+
+#zsh-users/zsh-syntax-highlighting
+#zsh-users/zsh-history-substring-search
+
+zsh-users/zsh-completions
+caarlos0/zsh-mkc
+djui/alias-tips
+Tarrasch/zsh-autoenv
+Tarrasch/zsh-colors
+
+robbyrussell/oh-my-zsh
+robbyrussell/oh-my-zsh folder:plugins/common-aliases
+robbyrussell/oh-my-zsh folder:plugins/git
+
+mafredri/zsh-async
+sindresorhus/pure
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-history-substring-search
